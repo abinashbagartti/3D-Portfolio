@@ -1,20 +1,42 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 3D Portfolio
 
-# Run and deploy your AI Studio app
+A high-performance, interactive 3D portfolio web application featuring fluid scrolling animations and beautiful visual hierarchies.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/f3fd4e5c-e924-4094-991a-fd33fae979a1
+## Live Demo
 
-## Run Locally
+Check out the live deployment: **[your-portfolio-link.vercel.app](https://your-portfolio-link.vercel.app)**
 
-**Prerequisites:**  Node.js
+---
 
+## Features
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+* **Interactive 3D Elements:** Immersive visual experience utilizing advanced 3D spatial positioning and models.
+* **Modern UI Aesthetics:** Sleek design language incorporating smooth transitions, glassmorphism, and responsive styling.
+* **Fluid Scrolling:** Custom-tailored layout flows and interactive scroll-bound animations.
+* **Optimized Performance:** Fast load times and asset rendering for a seamless user experience.
+
+---
+
+## Tech Stack
+
+* **Frontend:** React, Next.js, Tailwind CSS
+* **3D/Graphics:** Three.js / React Three Fiber / Spline
+* **Backend & Database:** Node.js, Express, MongoDB
+* **Deployment:** Vercel / Netlify
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+Make sure you have **Node.js** installed.
+
+### Installation
+
+1. **Clone the repository:**
+```bash
+   git clone [https://github.com/abinashbagartti/3D-Portfolio.git](https://github.com/abinashbagartti/3D-Portfolio.git)
+   cd 3D-Portfolio
